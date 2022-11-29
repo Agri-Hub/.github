@@ -7,7 +7,11 @@ AgriHUB is a research group within the Beyond Center of Earth Observation Resear
  
 Through this work, AgriHUB has developed the following novel applications: [agrowth](http://agrowth.beyond-eocenter.eu/) (phenology and yield predictions), resagri (weather peril earth warning system), optimal sowing recommendation system (with Corteva) and DataCAP (policy monitoring system). These applications are product of systematic research that has culminated to several scientific publications: crop classification using satellite data and machine learning [[1](#1)], semi-supervised and unsupervised phenology predictions for real-world scenarios [[2](#2)], explainable predictions of the onset of pest harmfulness in cotton [[3](#3)], fusion of satellite and street-level images for enhanced agricultural monitoring [[4](#4)], agriculture monitoring data cubes and distributed AI pipelines in HPC to handle the massive amounts of satellite data [[5](#5)], land suitability for applying specific management practices using causal machine learning and assessment of the impact of digital agriculture tools using causal inference [[6](#6)]. 
 
-### Thematic Areas
+## Projects
+
+Our team has participated in multiple European projects: 
+
+## Thematic Areas
 </br>
 
 - Monitoring of agricultural policies (e.g., Common Agricultural Policy of the EU)
@@ -17,7 +21,7 @@ Through this work, AgriHUB has developed the following novel applications: [agro
 
 <hr>
 
-### Research Areas
+## Research Areas
 </br>
 
 - Climate Change and Ecosystem Services
@@ -33,8 +37,8 @@ Through this work, AgriHUB has developed the following novel applications: [agro
 
 <hr>
 
-### References
-#### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
+## References
+### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
 
 Sitokonstantinou, V., Papoutsis, I., Kontoes, C., Lafarga Arnal, A., Armesto Andres, A.
 P., and Garraza Zurbano, J. A. (2018). Scalable parcel-based crop identification scheme
@@ -51,7 +55,7 @@ Jo, HW.*, Koukos, A.*, Sitokonstantinou V., Lee, WK. & Kontoes, C. (2022). Towar
 Maps with Transfer Learning. In NeurIPS Workshop Climate Change AI. [Paper]()&nbsp;
 
 
-#### Fusion of Multiple Remote Sensing Sources <a name="2"></a>
+### Fusion of Multiple Remote Sensing Sources <a name="2"></a>
 
 Choumos, G.*, Koukos, A.*, Sitokonstantinou, V. and Kontoes, C. (2022). Towards
 space-to-ground data availability for the monitoring of the common agricultural policy.
@@ -65,13 +69,13 @@ Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., Papoutsis, I., and Ka
 V. (2021). A Scalable Machine Learning Pipeline for Paddy Rice Classification Using
 Multi-Temporal Sentinel Data. Remote Sensing, 13(9), 1769. [Paper]()&nbsp;
 
-#### Explainable Digital Agriculture <a name="3"></a>
+### Explainable Digital Agriculture <a name="3"></a>
 
 Nanushi, O.*, Sitokonstantinou, V.*, Tsoumas, I. and Kontoes, C. (2022). Pest presence
 prediction using interpretable machine learning. In 2022 IEEE 14th Image, Video, and
 Multidimensional Signal Processing Workshop, IVMSP. [Paper]()&nbsp;
 
-#### Big Earth Data Technologies <a name="4"></a>
+### Big Earth Data Technologies <a name="4"></a>
 
 Drivas, T.*, Sitokonstantinou, V.*, Tsardanidis, I., Koukos, A., Karathanassi, V. and
 Kontoes, C. (2022). A Data Cube of Big Satellite Image Time-Series for Agriculture
@@ -87,7 +91,7 @@ Sitokonstantinou, V., Drivas, T., Koukos, A., Papoutsis, I., Kontoes, C. and Kar
 V. (2020). Scalable distributed random forest classification for paddy rice mapping. In
 Proceedings of the Asian Remote Sensing Conference (ACRS 2019) (pp. 836-845). [Paper]()&nbsp;
 
-#### Crop Growth Modeling <a name="5"></a>
+### Crop Growth Modeling <a name="5"></a>
 
 Sitokonstantinou, V., Koukos, A., Kontoes, C., Bartsotas, N. S., and Karathanassi, V.
 (2021, July). Semi-Supervised Phenology Estimation in Cotton Parcels with Sentinel-2
@@ -102,7 +106,7 @@ Remote Sensing and Geoinformation of the Environment (RSCy2020) (Vol. 11524, pp.
 
 
 
-#### Causal Inference for Sustainable Agriculture <a name="6"></a>
+### Causal Inference for Sustainable Agriculture <a name="6"></a>
 
 Giannarakis, G., Sitokonstantinou, V., Roxanne, L. and Kontoes, C. (2022). Towards
 assessing agricultural land suitability using causal machine learning. In Proceedings
