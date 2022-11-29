@@ -1,4 +1,4 @@
-# AgriHUB: AI and Earth Observation for Sustainable Ecosystems
+# AgriHUB: AI and Earth Observation for Sustainable Land Ecosystems
 part of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ National Observatory of Athens](https://www.astro.noa.gr/en/)&nbsp;
 
 ##  What we do
