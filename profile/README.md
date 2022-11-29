@@ -18,6 +18,7 @@ Our team has participated in multiple European projects:
 6. [Eiffel](https://www.eiffel4climate.eu/)
 7. [Transition](https://www.transition-med.org/)
 8. [Microservices](https://microservices.ethz.ch/)
+9. [Excelsior](https://excelsior2020.eu/)
 
 ## Thematic Areas
 </br>
