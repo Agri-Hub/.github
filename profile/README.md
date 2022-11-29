@@ -64,16 +64,16 @@ Our team has participated in multiple European projects:
 Sitokonstantinou, V., Papoutsis, I., Kontoes, C., Lafarga Arnal, A., Armesto Andres, A.
 P., and Garraza Zurbano, J. A. (2018). Scalable parcel-based crop identification scheme
 using Sentinel-2 data time-series for the monitoring of the common agricultural policy. 
-Remote Sensing, 10(6), 911. [Paper]()&nbsp;
+Remote Sensing, 10(6), 911. [Paper](https://www.mdpi.com/2072-4292/10/6/911)&nbsp;
 
 Rousi, M., Sitokonstantinou, V., Meditskos, G., Papoutsis, I., Gialampoukidis, I.,
 Koukos, A., ... and Kompatsiaris, I. (2020). Semantically enriched crop type classification
 and linked earth observation data to support the common agricultural policy
 monitoring. IEEE Journal of Selected Topics in Applied Earth Observations and
-Remote Sensing, 14, 529-552. [Paper]()&nbsp;
+Remote Sensing, 14, 529-552. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9261931)&nbsp;
 
 Jo, HW.*, Koukos, A.*, Sitokonstantinou V., Lee, WK. & Kontoes, C. (2022). Towards Global Crop
-Maps with Transfer Learning. In NeurIPS Workshop Climate Change AI. [Paper]()&nbsp;
+Maps with Transfer Learning. In NeurIPS Workshop Climate Change AI. [Paper](https://arxiv.org/pdf/2211.04755.pdf)&nbsp;
 
 
 ### Fusion of Multiple Remote Sensing Sources <a name="2"></a>
@@ -81,49 +81,49 @@ Maps with Transfer Learning. In NeurIPS Workshop Climate Change AI. [Paper]()&nb
 Choumos, G.*, Koukos, A.*, Sitokonstantinou, V. and Kontoes, C. (2022). Towards
 space-to-ground data availability for the monitoring of the common agricultural policy.
 In 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop,
-IVMSP. [Paper]()&nbsp;
+IVMSP. [Paper](https://arxiv.org/pdf/2205.07721.pdf)&nbsp;
 
 Ioannidou, M.*, Koukos, A.*, Sitokonstantinou, V., Papoutsis, I. and Kontoes, C., 2022. 
-Assessing the added value of Sentinel-1 PolSAR data for crop classification. Remote Sensing. [Paper]()&nbsp;
+Assessing the added value of Sentinel-1 PolSAR data for crop classification. Remote Sensing. [Paper](https://www.mdpi.com/2072-4292/14/22/5739/pdf)&nbsp;
 
 Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., Papoutsis, I., and Karathanassi,
 V. (2021). A Scalable Machine Learning Pipeline for Paddy Rice Classification Using
-Multi-Temporal Sentinel Data. Remote Sensing, 13(9), 1769. [Paper]()&nbsp;
+Multi-Temporal Sentinel Data. Remote Sensing, 13(9), 1769. [Paper](https://www.mdpi.com/2072-4292/13/9/1769)&nbsp;
 
 ### Explainable Digital Agriculture <a name="3"></a>
 
 Nanushi, O.*, Sitokonstantinou, V.*, Tsoumas, I. and Kontoes, C. (2022). Pest presence
 prediction using interpretable machine learning. In 2022 IEEE 14th Image, Video, and
-Multidimensional Signal Processing Workshop, IVMSP. [Paper]()&nbsp;
+Multidimensional Signal Processing Workshop, IVMSP. [Paper](https://arxiv.org/pdf/2205.07723.pdf)&nbsp;
 
 ### Big Earth Data Technologies <a name="4"></a>
 
 Drivas, T.*, Sitokonstantinou, V.*, Tsardanidis, I., Koukos, A., Karathanassi, V. and
 Kontoes, C. (2022). A Data Cube of Big Satellite Image Time-Series for Agriculture
 Monitoring. In 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing
-Workshop, IVMSP. [Paper]()&nbsp;
+Workshop, IVMSP. [Paper](https://arxiv.org/pdf/2205.07752)&nbsp;
 
 Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., and Karathanassi, V. (2022).
 DataCAP: A Satellite Datacube and Crowdsourced Street-Level Images for the Monitoring
 of the Common Agricultural Policy. In International Conference on Multimedia
-Modeling (pp. 473-478). Springer. [Paper]()&nbsp;
+Modeling (pp. 473-478). Springer. [Paper](https://zenodo.org/record/5845512#.Y4YZ43ZBy3A)&nbsp;
 
 Sitokonstantinou, V., Drivas, T., Koukos, A., Papoutsis, I., Kontoes, C. and Karathanassi,
 V. (2020). Scalable distributed random forest classification for paddy rice mapping. In
-Proceedings of the Asian Remote Sensing Conference (ACRS 2019) (pp. 836-845). [Paper]()&nbsp;
+Proceedings of the Asian Remote Sensing Conference (ACRS 2019) (pp. 836-845). [Paper](https://a-a-r-s.org/proceeding/ACRS2019/ThB3-6.pdf)&nbsp;
 
 ### Crop Growth Modeling <a name="5"></a>
 
 Sitokonstantinou, V., Koukos, A., Kontoes, C., Bartsotas, N. S., and Karathanassi, V.
 (2021, July). Semi-Supervised Phenology Estimation in Cotton Parcels with Sentinel-2
 Time-Series. In 2021 IEEE International Geoscience and Remote Sensing Symposium
-IGARSS (pp. 8491-8494). IEEE. [Paper]()&nbsp;
+IGARSS (pp. 8491-8494). IEEE. [Paper](https://ieeexplore.ieee.org/document/9553456)&nbsp;
 
 Sitokonstantinou, V., Koutroumpas, A., Drivas, T., Koukos, A., Karathanassi, V.,
 Kontoes, H., and Papoutsis, I. (2020). A Sentinel based agriculture monitoring scheme
 for the control of the CAP and food security. In Eighth International Conference on
 Remote Sensing and Geoinformation of the Environment (RSCy2020) (Vol. 11524, pp.
-48-59). SPIE [Paper]()&nbsp;
+48-59). SPIE [Paper](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-.PPHMESU.v1)&nbsp;
 
 
 
@@ -131,15 +131,15 @@ Remote Sensing and Geoinformation of the Environment (RSCy2020) (Vol. 11524, pp.
 
 Giannarakis, G., Sitokonstantinou, V., Roxanne, L. and Kontoes, C. (2022). Towards
 assessing agricultural land suitability using causal machine learning. In Proceedings
-of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [Paper]()&nbsp;
+of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [Paper](https://arxiv.org/pdf/2204.12956)&nbsp;
 
 Giannarakis, G., Sitokonstantinou V., Lorilla, R.S. & Kontoes, C. (2022). 
 Personalizing Sustainable Agriculture with Causal Machine Learning. In NeurIPS Workshop 
-Climate Change AI. [Paper]()&nbsp;
+Climate Change AI. [Paper](https://arxiv.org/pdf/2211.03179.pdf)&nbsp;
 
 Tsoumas, I.*, Giannarakis, G.*, Sitokonstantinou V., Koukos, A., Loka, D., Bartsotas, 
 N., Kontoes, C. & Athanasiadis, I. (2022). Evaluating Digital Tools for Sustainable 
-Agriculture using Causal Inference. In NeurIPS Workshop Climate Change AI. [Paper]()&nbsp;
+Agriculture using Causal Inference. In NeurIPS Workshop Climate Change AI. [Paper](https://arxiv.org/pdf/2211.03195.pdf)&nbsp;
 
 Tsoumas, I.*, Giannarakis, G.*, Sitokonstantinou V., Koukos, A., Loka, D., Bartsotas, 
 N., Kontoes, C. & Athanasiadis, I. (2022). Evaluating Digital Agriculture Recommendations
