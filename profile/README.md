@@ -5,7 +5,7 @@ part of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ 
 
 AgriHUB is a research group within the Beyond Center of Earth Observation Research of the National Observatory of Athens.  We conduct research in the domain of Big Earth data and Artificial Intelligence trying to understand agro-ecosystems and develop applications that support sustainable and resilient agriculture. Over the last five years, our team has participated in more than ten EU-funded projects providing agricultural information services that utilize satellite data, drone images, street-level images, geotagged photos from the field and numerical weather predictions to address real-world problems in the thematic areas described at the end of this paragraph. 
  
-Through this work, AgriHUB has developed the following novel applications: [agrowth](http://agrowth.beyond-eocenter.eu/) (phenology and yield predictions), [resagri](http://risk.resagri.eu/) (weather peril earth warning system), [optimal sowing recommendation system (with Corteva)](https://www.corteva.gr/products-and-solutions/granular-club0.html) and [DataCAP](http://62.217.82.91/) (policy monitoring system). These applications are product of systematic research that has culminated to several scientific publications: crop classification using satellite data and machine learning [[1](#1)], semi-supervised and unsupervised phenology predictions for real-world scenarios [[2](#2)], explainable predictions of the onset of pest harmfulness in cotton [[3](#3)], fusion of satellite and street-level images for enhanced agricultural monitoring [[4](#4)], agriculture monitoring data cubes and distributed AI pipelines in HPC to handle the massive amounts of satellite data [[5](#5)], land suitability for applying specific management practices using causal machine learning and assessment of the impact of digital agriculture tools using causal inference [[6](#6)]. 
+Through this work, AgriHUB has developed the following novel applications: [agrowth](http://agrowth.beyond-eocenter.eu/) (phenology and yield predictions), resagri (weather peril earth warning system), optimal sowing recommendation system (with Corteva) and DataCAP (policy monitoring system). These applications are product of systematic research that has culminated to several scientific publications: crop classification using satellite data and machine learning [[1](#1)], semi-supervised and unsupervised phenology predictions for real-world scenarios [[2](#2)], explainable predictions of the onset of pest harmfulness in cotton [[3](#3)], fusion of satellite and street-level images for enhanced agricultural monitoring [[4](#4)], agriculture monitoring data cubes and distributed AI pipelines in HPC to handle the massive amounts of satellite data [[5](#5)], land suitability for applying specific management practices using causal machine learning and assessment of the impact of digital agriculture tools using causal inference [[6](#6)]. 
 
 ## Projects
 
@@ -36,6 +36,28 @@ Our team has participated in multiple European projects:
 
 
 <hr>
+
+## The Team
+Dr. Vasileios Sitokostantinou - Head of AgriHUB and AI Lead (vsitokonstantinou@gmail.com | vsito@noa.gr)
+
+Dr. Roxanne S. Lorilla - Ecosystem Science Lead
+
+Dr. Nikolaos S. Bartsotas - Clima/Weather Science Lead
+
+Alkiviadis Koukos - Deep Learning Dev.
+
+Iason Tsardanidis - Deep Learning Dev.
+
+George Choumos - Deep Learning and Multi-media Dev.
+
+Ilias Tsoumas - XAI Dev.
+
+Ornela Nanushi - XAI Dev.
+
+George Giannarakis - Causal AI Dev. 
+
+Thanassis Drivas - Big Data & Geoinformation Dev.
+
 
 ## References
 ### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
