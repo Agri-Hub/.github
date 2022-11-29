@@ -46,7 +46,7 @@ Our team has participated in multiple European projects:
 <hr>
 
 ## The Team
-- Dr. Vasileios Sitokostantinou - Head of AgriHUB and AI Lead (vsitokonstantinou@gmail.com | vsito@noa.gr)
+- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - Head of AgriHUB and AI Lead (vsitokonstantinou@gmail.com | vsito@noa.gr)
 - Dr. Roxanne S. Lorilla - Ecosystem Science Lead
 - Dr. Nikolaos S. Bartsotas - Clima/Weather Science Lead
 - Alkiviadis Koukos - Deep Learning Dev.
