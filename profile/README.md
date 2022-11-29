@@ -45,6 +45,19 @@ Our team has participated in multiple European projects:
 
 <hr>
 
+## The Team
+Dr. Vasileios Sitokostantinou - Head of AgriHUB and AI Lead (vsitokonstantinou@gmail.com | vsito@noa.gr)
+Dr. Roxanne S. Lorilla - Ecosystem Science Lead
+Dr. Nikolaos S. Bartsotas - Clima/Weather Science Lead
+Alkiviadis Koukos - Deep Learning Dev.
+Iason Tsardanidis - Deep Learning Dev.
+George Choumos - Deep Learning and Multi-media Dev.
+Ilias Tsoumas - XAI Dev.
+Ornela Nanushi - XAI Dev.
+George Giannarakis - Causal AI Dev.
+Thanassis Drivas - Big Data & Geoinformation Dev.
+
+
 ## References
 ### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
 
