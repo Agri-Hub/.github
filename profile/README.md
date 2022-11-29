@@ -4,8 +4,8 @@ part of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ 
 ##  What we do
 
 AgriHUB is a research group within the Beyond Center of Earth Observation Research of the National Observatory of Athens.  We conduct research in the domain of Big Earth data and Artificial Intelligence trying to understand agro-ecosystems and develop applications that support sustainable and resilient agriculture. Over the last five years, our team has participated in more than ten EU-funded projects providing agricultural information services that utilize satellite data, drone images, street-level images, geotagged photos from the field and numerical weather predictions to address real-world problems in the thematic areas described at the end of this paragraph. 
-
-Through this work, AgriHUB has developed the following novel applications: agrowth (phenology and yield predictions), resagri (weather peril earth warning system), optimal sowing recommendation system (with Corteva) and DataCAP (policy monitoring system). These applications are product of systematic research that has culminated to several scientific publications: crop classification using satellite data and machine learning [1-4], semi-supervised and unsupervised phenology predictions for real-world scenarios [5, 6], prediction of the onset of pest harmfulness in cotton [5], fusion of satellite and street-level images for enhanced agricultural monitoring [6], agriculture monitoring data cubes to handle the massive amounts of satellite data [7-8], large scale food security monitoring using high performance computers [9-10], land suitability for applying specific management practices using causal machine learning [11] and assessment of the impact of digital agriculture tools using causal inference (soon public). 
+ 
+Through this work, AgriHUB has developed the following novel applications: agrowth (phenology and yield predictions), resagri (weather peril earth warning system), optimal sowing recommendation system (with Corteva) and DataCAP (policy monitoring system). These applications are product of systematic research that has culminated to several scientific publications: crop classification using satellite data and machine learning [[1](#1)], semi-supervised and unsupervised phenology predictions for real-world scenarios [[2](#2)], explainable predictions of the onset of pest harmfulness in cotton [[3](#3)], fusion of satellite and street-level images for enhanced agricultural monitoring [[4](#4)], agriculture monitoring data cubes and distributed AI pipelines in HPC to handle the massive amounts of satellite data [[5](#5)], land suitability for applying specific management practices using causal machine learning and assessment of the impact of digital agriculture tools using causal inference [[6](#6)]. 
 
 ### Thematic Areas
 </br>
@@ -34,57 +34,95 @@ Through this work, AgriHUB has developed the following novel applications: agrow
 <hr>
 
 ### References
-[1] Sitokonstantinou, V., Papoutsis, I., Kontoes, C., Lafarga Arnal, A., Armesto Andres, A.
+#### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
+
+Sitokonstantinou, V., Papoutsis, I., Kontoes, C., Lafarga Arnal, A., Armesto Andres, A.
 P., and Garraza Zurbano, J. A. (2018). Scalable parcel-based crop identification scheme
 using Sentinel-2 data time-series for the monitoring of the common agricultural policy. 
-Remote Sensing, 10(6), 911.
+Remote Sensing, 10(6), 911. [Paper]()&nbsp;
 
-[2] Rousi, M., Sitokonstantinou, V., Meditskos, G., Papoutsis, I., Gialampoukidis, I.,
+Rousi, M., Sitokonstantinou, V., Meditskos, G., Papoutsis, I., Gialampoukidis, I.,
 Koukos, A., ... and Kompatsiaris, I. (2020). Semantically enriched crop type classification
 and linked earth observation data to support the common agricultural policy
 monitoring. IEEE Journal of Selected Topics in Applied Earth Observations and
-Remote Sensing, 14, 529-552.
+Remote Sensing, 14, 529-552. [Paper]()&nbsp;
 
-[3] Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., Papoutsis, I., and Karathanassi,
-V. (2021). A Scalable Machine Learning Pipeline for Paddy Rice Classification Using
-Multi-Temporal Sentinel Data. Remote Sensing, 13(9), 1769.
+Jo, HW.*, Koukos, A.*, Sitokonstantinou V., Lee, WK. & Kontoes, C. (2022). Towards Global Crop
+Maps with Transfer Learning. In NeurIPS Workshop Climate Change AI. [Paper]()&nbsp;
 
-[4] Sitokonstantinou, V., Koukos, A., Kontoes, C., Bartsotas, N. S., and Karathanassi, V.
-(2021, July). Semi-Supervised Phenology Estimation in Cotton Parcels with Sentinel-2
-Time-Series. In 2021 IEEE International Geoscience and Remote Sensing Symposium
-IGARSS (pp. 8491-8494). IEEE.
 
-[5] Nanushi, O.*, Sitokonstantinou, V.*, Tsoumas, I. and Kontoes, C. (2022). Pest presence
-prediction using interpretable machine learning. In 2022 IEEE 14th Image, Video, and
-Multidimensional Signal Processing Workshop, IVMSP.
+#### Fusion of Multiple Remote Sensing Sources <a name="2"></a>
 
-[6] Choumos, G.*, Koukos, A.*, Sitokonstantinou, V. and Kontoes, C. (2022). Towards
+Choumos, G.*, Koukos, A.*, Sitokonstantinou, V. and Kontoes, C. (2022). Towards
 space-to-ground data availability for the monitoring of the common agricultural policy.
 In 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop,
-IVMSP.
+IVMSP. [Paper]()&nbsp;
 
-[7] Drivas, T.*, Sitokonstantinou, V.*, Tsardanidis, I., Koukos, A., Karathanassi, V. and
+Ioannidou, M.*, Koukos, A.*, Sitokonstantinou, V., Papoutsis, I. and Kontoes, C., 2022. 
+Assessing the added value of Sentinel-1 PolSAR data for crop classification. Remote Sensing. [Paper]()&nbsp;
+
+Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., Papoutsis, I., and Karathanassi,
+V. (2021). A Scalable Machine Learning Pipeline for Paddy Rice Classification Using
+Multi-Temporal Sentinel Data. Remote Sensing, 13(9), 1769. [Paper]()&nbsp;
+
+#### Explainable Digital Agriculture <a name="3"></a>
+
+Nanushi, O.*, Sitokonstantinou, V.*, Tsoumas, I. and Kontoes, C. (2022). Pest presence
+prediction using interpretable machine learning. In 2022 IEEE 14th Image, Video, and
+Multidimensional Signal Processing Workshop, IVMSP. [Paper]()&nbsp;
+
+#### Big Earth Data Technologies <a name="4"></a>
+
+Drivas, T.*, Sitokonstantinou, V.*, Tsardanidis, I., Koukos, A., Karathanassi, V. and
 Kontoes, C. (2022). A Data Cube of Big Satellite Image Time-Series for Agriculture
 Monitoring. In 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing
-Workshop, IVMSP.
+Workshop, IVMSP. [Paper]()&nbsp;
 
-[8] Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., and Karathanassi, V. (2022).
+Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., and Karathanassi, V. (2022).
 DataCAP: A Satellite Datacube and Crowdsourced Street-Level Images for the Monitoring
 of the Common Agricultural Policy. In International Conference on Multimedia
-Modeling (pp. 473-478). Springer.
+Modeling (pp. 473-478). Springer. [Paper]()&nbsp;
 
-[9] Sitokonstantinou, V., Drivas, T., Koukos, A., Papoutsis, I., Kontoes, C. and Karathanassi,
+Sitokonstantinou, V., Drivas, T., Koukos, A., Papoutsis, I., Kontoes, C. and Karathanassi,
 V. (2020). Scalable distributed random forest classification for paddy rice mapping. In
-Proceedings of the Asian Remote Sensing Conference (ACRS 2019) (pp. 836-845).
+Proceedings of the Asian Remote Sensing Conference (ACRS 2019) (pp. 836-845). [Paper]()&nbsp;
 
-[10] Sitokonstantinou, V., Koutroumpas, A., Drivas, T., Koukos, A., Karathanassi, V.,
+#### Crop Growth Modeling <a name="5"></a>
+
+Sitokonstantinou, V., Koukos, A., Kontoes, C., Bartsotas, N. S., and Karathanassi, V.
+(2021, July). Semi-Supervised Phenology Estimation in Cotton Parcels with Sentinel-2
+Time-Series. In 2021 IEEE International Geoscience and Remote Sensing Symposium
+IGARSS (pp. 8491-8494). IEEE. [Paper]()&nbsp;
+
+Sitokonstantinou, V., Koutroumpas, A., Drivas, T., Koukos, A., Karathanassi, V.,
 Kontoes, H., and Papoutsis, I. (2020). A Sentinel based agriculture monitoring scheme
 for the control of the CAP and food security. In Eighth International Conference on
 Remote Sensing and Geoinformation of the Environment (RSCy2020) (Vol. 11524, pp.
-48-59). SPIE
+48-59). SPIE [Paper]()&nbsp;
 
-[11] Giannarakis, G., Sitokonstantinou, V., Roxanne, L. and Kontoes, C. (2022). Towards
+
+
+#### Causal Inference for Sustainable Agriculture <a name="6"></a>
+
+Giannarakis, G., Sitokonstantinou, V., Roxanne, L. and Kontoes, C. (2022). Towards
 assessing agricultural land suitability using causal machine learning. In Proceedings
-of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. [Paper]()&nbsp;
+
+Giannarakis, G., Sitokonstantinou V., Lorilla, R.S. & Kontoes, C. (2022). 
+Personalizing Sustainable Agriculture with Causal Machine Learning. In NeurIPS Workshop 
+Climate Change AI. [Paper]()&nbsp;
+
+Tsoumas, I.*, Giannarakis, G.*, Sitokonstantinou V., Koukos, A., Loka, D., Bartsotas, 
+N., Kontoes, C. & Athanasiadis, I. (2022). Evaluating Digital Tools for Sustainable 
+Agriculture using Causal Inference. In NeurIPS Workshop Climate Change AI. [Paper]()&nbsp;
+
+Tsoumas, I.*, Giannarakis, G.*, Sitokonstantinou V., Koukos, A., Loka, D., Bartsotas, 
+N., Kontoes, C. & Athanasiadis, I. (2022). Evaluating Digital Agriculture Recommendations
+with Causal Inference. In Thirty-Seventh AAAI conference on artificial intelligence. 
+
+
+
+
+
 
 
