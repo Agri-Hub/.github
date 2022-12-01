@@ -144,7 +144,7 @@ Agriculture using Causal Inference. In NeurIPS Workshop Climate Change AI. [Pape
 
 Tsoumas, I.*, Giannarakis, G.*, Sitokonstantinou V., Koukos, A., Loka, D., Bartsotas, 
 N., Kontoes, C. & Athanasiadis, I. (2022). Evaluating Digital Agriculture Recommendations
-with Causal Inference. In Thirty-Seventh AAAI conference on artificial intelligence. 
+with Causal Inference. In Thirty-Seventh AAAI conference on artificial intelligence. [paper](https://arxiv.org/abs/2211.16938) 
 
 
 
