@@ -47,7 +47,7 @@ Our team has participated in multiple European projects:
 <hr>
 
 ## The Team
-- Dr. Charalampos Kontoes - Director of Operational Unit Beyond 
+- Dr. Charalampos Kontoes - Director of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ National Observatory of Athens](https://www.astro.noa.gr/en/)&nbsp;
 - Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - Head of AgriHUB and AI Lead (vsitokonstantinou@gmail.com | vsito@noa.gr)
 - Dr. Roxanne S. Lorilla - Ecosystem Science Lead
 - Dr. Nikolaos S. Bartsotas - Clima/Weather Science Lead
