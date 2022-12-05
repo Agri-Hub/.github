@@ -10,10 +10,10 @@ Through this work, AgriHUB has developed the following novel applications: [agro
 ## Projects
 
 Our team has participated in multiple European projects: 
-1. [ReCAP](https://cordis.europa.eu/project/id/693171)
+1. [RECAP](https://cordis.europa.eu/project/id/693171)
 2. [EOPEN](https://eopen-project.eu/)
 3. [ENVISION](https://envision-h2020.eu/)
-4. [eShape](https://e-shape.eu/)
+4. [e-hape](https://e-shape.eu/)
 5. [Callisto](https://callisto-h2020.eu/)
 6. [Eiffel](https://www.eiffel4climate.eu/)
 7. [Transition](https://www.transition-med.org/)
