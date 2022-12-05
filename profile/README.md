@@ -60,7 +60,7 @@ Our team has participated in multiple European projects:
 - Thanassis Drivas - Big Data & Geoinformation Dev.
 
 
-## References
+## Publications
 ### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
 
 Sitokonstantinou, V., Papoutsis, I., Kontoes, C., Lafarga Arnal, A., Armesto Andres, A.
