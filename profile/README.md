@@ -102,7 +102,7 @@ Multidimensional Signal Processing Workshop, IVMSP. [Paper](https://arxiv.org/pd
 
 ### Big Earth Data Technologies <a name="4"></a>
 
-Drivas, T.*, Sitokonstantinou, V.*, Tsardanidis, I., Koukos, A., Karathanassi, V. and
+Drivas, T.*, Sitokonstantinou. V.*, Tsardanidis, I., Koukos, A., Karathanassi, V. and
 Kontoes, C. (2022). A Data Cube of Big Satellite Image Time-Series for Agriculture
 Monitoring. In 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing
 Workshop, IVMSP. [Paper](https://arxiv.org/pdf/2205.07752)&nbsp;
