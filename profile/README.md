@@ -3,9 +3,9 @@ part of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ 
 
 ##  News
 
-- Best proposal award in [NeurIPS 2022 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2022)
+- Best proposal award in [NeurIPS 2022 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2022) ->
  Paper: [Personalizing Sustainable Agriculture with Causal Machine Learning](https://www.climatechange.ai/papers/neurips2022/11) (Dec. 2022)
-- Paper accepted in [AAAI-23](https://aaai.org/Conferences/AAAI-23/ ) Special Track on AI for Social Impact
+- Paper accepted in [AAAI-23](https://aaai.org/Conferences/AAAI-23/ ) Special Track on AI for Social Impact ->
  Paper: [Evaluating Digital Agriculture Recommendations with Causal Inference](https://arxiv.org/abs/2211.16938) (Nov. 2022)
 
 ##  What we do
