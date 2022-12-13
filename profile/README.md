@@ -1,6 +1,12 @@
 # AgriHUB: AI and Earth Observation for Sustainable Land Ecosystems
 part of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ National Observatory of Athens](https://www.astro.noa.gr/en/)&nbsp;
 
+##  News
+
+- Best proposal award in [NeurIPS 2022 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2022)
+Paper: [Personalizing Sustainable Agriculture with Causal Machine Learning](https://www.climatechange.ai/papers/neurips2022/11) 
+- 
+
 ##  What we do
 
 AgriHUB is a research group within the Beyond Center of Earth Observation Research of the National Observatory of Athens.  We conduct research in the domain of Big Earth data and Artificial Intelligence trying to understand agro-ecosystems and develop applications that support sustainable and resilient agriculture. Over the last five years, our team has participated in more than ten EU-funded projects providing agricultural information services that utilize satellite data, drone images, street-level images, geotagged photos from the field and numerical weather predictions to address real-world problems in the thematic areas described at the end of this paragraph. 
