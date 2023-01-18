@@ -64,9 +64,9 @@ Our team has participated in multiple European projects:
 - Iason Tsardanidis - Data Scientist (Deep Learning)
 - George Choumos - Data Scientist (Deep Learning) 
 - Ilias Tsoumas - Data Scientist (XAI)
-- Ornela Nanushi - Datai Scientist (XAI)
+- Ornela Nanushi - Data Scientist (XAI)
 - George Giannarakis - Data Scientist (Causal AI)
-- Thanassis Drivas - Data Engineer (Big Data & Geoinformation)
+- Thanassis Drivas - Data Engineer (Big Data & Geo-information)
 
 
 ## Publications
