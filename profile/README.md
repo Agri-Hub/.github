@@ -2,7 +2,7 @@
 part of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ National Observatory of Athens](https://www.astro.noa.gr/en/)&nbsp;
 
 ##  News
-- We are one of the winners of the [myEUspace competition](https://www.euspa.europa.eu/newsroom/news/congrats-first-round-winners-myeuspace-competition) of EUSPA - EU Agency for the Space Programme. Our idea combines blockchain, AI, EO and NFT to incentivize crowdsourcing, streamline space-to-ground data availability and empower AI4EO research.
+- We are one of the winners of the [myEUspace competition](https://www.euspa.europa.eu/newsroom/news/congrats-first-round-winners-myeuspace-competition) of EUSPA - EU Agency for the Space Programme. Our idea (DeGenS) combines blockchain, AI, EO and NFT to incentivize crowdsourcing, streamline space-to-ground data availability and empower AI4EO research.
 - Best proposal award in [NeurIPS 2022 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2022) ->
  Paper: [Personalizing Sustainable Agriculture with Causal Machine Learning](https://www.climatechange.ai/papers/neurips2022/11) (Dec. 2022)
 - Paper accepted in [AAAI-23](https://aaai.org/Conferences/AAAI-23/ ) Special Track on AI for Social Impact ->
