@@ -53,15 +53,15 @@ Our team has participated in multiple European projects:
 <hr>
 
 ## The Team
-- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - AgriHUB lead (vsitokonstantinou@gmail.com | sitokons@uv.es)
-- Dr. Roxanne S. Lorilla - Ecosystem Science Lead
-- Dr. Nikolaos S. Bartsotas - Clima/Weather Science Lead
-- Alkiviadis Koukos - Data Scientist (Deep Learning)
-- Iason Tsardanidis - Data Scientist (Deep Learning)
-- George Choumos - Data Scientist (Deep Learning) 
-- Ilias Tsoumas - Data Scientist (XAI)
-- George Giannarakis - Data Scientist (Causal AI)
-- Thanassis Drivas - Data Engineer (Big Data & Geo-information)
+- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (vsitokonstantinou@gmail.com)
+- Dr. Roxanne S. Lorilla
+- Dr. Nikolaos S. Bartsotas 
+- Alkiviadis Koukos 
+- Iason Tsardanidis 
+- George Choumos 
+- Ilias Tsoumas 
+- George Giannarakis 
+- Thanassis Drivas 
 
 
 ## Publications
