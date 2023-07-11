@@ -13,8 +13,6 @@ AgriHUB is a research group within the Beyond Center of Earth Observation Resear
  
 Through this work, AgriHUB has developed the following novel applications: [agrowth](http://agrowth.beyond-eocenter.eu/) (phenology and yield predictions), [resagri](http://risk.resagri.eu/) (weather peril earth warning system), [optimal sowing recommendation system (with Corteva)](https://www.corteva.gr/products-and-solutions/granular-club0.html) and [DataCAP](http://62.217.82.91/) (policy monitoring system). These applications are product of systematic research that has culminated to several scientific publications: crop classification using satellite data and machine learning [[1](#1)], semi-supervised and unsupervised phenology predictions for real-world scenarios [[2](#2)], explainable predictions of the onset of pest harmfulness in cotton [[3](#3)], fusion of satellite and street-level images for enhanced agricultural monitoring [[4](#4)], agriculture monitoring data cubes and distributed AI pipelines in HPC to handle the massive amounts of satellite data [[5](#5)], land suitability for applying specific management practices using causal machine learning and assessment of the impact of digital agriculture tools using causal inference [[6](#6)]. 
 
-<img src="https://cdn-fgnbn.nitrocdn.com/CExiFXHDXAeTGrlIkvRSSLnZISOqDumi/assets/static/optimized/rev-6e80265/wp-content/uploads/2021/03/ag_crop-data_img-blog_0321.png">
-
 ## Projects
 
 Our team has participated in multiple European projects: 
