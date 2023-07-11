@@ -1,5 +1,4 @@
 # AgriHUB: AI and Earth Observation for Sustainable Land Ecosystems
-part of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ National Observatory of Athens](https://www.astro.noa.gr/en/)&nbsp;
 
 ##  News
 - We are one of the winners of the [myEUspace competition](https://www.euspa.europa.eu/newsroom/news/congrats-first-round-winners-myeuspace-competition) of EUSPA - EU Agency for the Space Programme. Our idea (DeGenS) combines blockchain, AI, EO and NFT to incentivize crowdsourcing, streamline space-to-ground data availability and empower AI4EO research (Feb. 2023).
@@ -56,15 +55,13 @@ Our team has participated in multiple European projects:
 <hr>
 
 ## The Team
-- Dr. Charalampos Kontoes - Director of [Operational Unit Beyond](http://beyond-eocenter.eu/)&nbsp;| [IAASARS @ National Observatory of Athens](https://www.astro.noa.gr/en/)&nbsp;
-- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - Head of AgriHUB and AI Lead (vsitokonstantinou@gmail.com | vsito@noa.gr)
+- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - AgriHUB lead (vsitokonstantinou@gmail.com | sitokons@uv.es)
 - Dr. Roxanne S. Lorilla - Ecosystem Science Lead
 - Dr. Nikolaos S. Bartsotas - Clima/Weather Science Lead
 - Alkiviadis Koukos - Data Scientist (Deep Learning)
 - Iason Tsardanidis - Data Scientist (Deep Learning)
 - George Choumos - Data Scientist (Deep Learning) 
 - Ilias Tsoumas - Data Scientist (XAI)
-- Ornela Nanushi - Data Scientist (XAI)
 - George Giannarakis - Data Scientist (Causal AI)
 - Thanassis Drivas - Data Engineer (Big Data & Geo-information)
 
