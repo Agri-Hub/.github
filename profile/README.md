@@ -53,16 +53,17 @@ Our team has participated in multiple European projects:
 <hr>
 
 ## The Team
-- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (vsitokonstantinou@gmail.com)
-- Dr. Roxanne S. Lorilla
-- Dr. Nikolaos S. Bartsotas 
-- Alkiviadis Koukos 
-- Iason Tsardanidis 
-- George Choumos 
-- Ilias Tsoumas 
-- George Giannarakis 
-- Thanassis Drivas 
 
+- Dr. Dimitrios Barmpoudakis
+- Iason Tsardanidis 
+- Ilias Tsoumas  
+- Thanassis Drivas
+- Dr. Fotios Balampanis
+
+### Active collaborators
+
+- Dr. Nikolaos S. Bartsotas
+- George Choumos
 
 ## Publications
 ### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
@@ -132,7 +133,6 @@ Remote Sensing and Geoinformation of the Environment (RSCy2020) (Vol. 11524, pp.
 48-59). SPIE [Paper](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-.PPHMESU.v1)&nbsp;
 
 
-
 ### Causal Inference for Sustainable Agriculture <a name="6"></a>
 
 Giannarakis, G., Sitokonstantinou, V., Roxanne, L. and Kontoes, C. (2022). Towards
@@ -152,8 +152,12 @@ N., Kontoes, C. & Athanasiadis, I. (2022). Evaluating Digital Agriculture Recomm
 with Causal Inference. In Thirty-Seventh AAAI conference on artificial intelligence. [paper](https://arxiv.org/abs/2211.16938) 
 
 
+<hr>
 
-
-
+## Alumni
+- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (vsitokonstantinou@gmail.com)
+- Dr. Roxanne S. Lorilla
+- George Giannarakis
+- Alkiviadis Koukos
 
 
