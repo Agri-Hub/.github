@@ -60,10 +60,16 @@ Our team has participated in multiple European projects:
 - Thanassis Drivas
 - Dr. Fotios Balampanis
 
-### Active collaborators
+### Active internal (Beyond Research Center) collaborators
 
 - Dr. Nikolaos S. Bartsotas
 - George Choumos
+- Nikolaos Kintis
+
+### Active external collaborators
+- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (vsitokonstantinou@gmail.com)
+- George Giannarakis
+- Alkiviadis Koukos
 
 ## Publications
 ### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
@@ -155,9 +161,9 @@ with Causal Inference. In Thirty-Seventh AAAI conference on artificial intellige
 <hr>
 
 ## Alumni
-- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (vsitokonstantinou@gmail.com)
+
 - Dr. Roxanne S. Lorilla
-- George Giannarakis
-- Alkiviadis Koukos
+
+
 
 
