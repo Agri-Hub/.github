@@ -88,8 +88,14 @@ Remote Sensing, 14, 529-552. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp
 Jo, HW.*, Koukos, A.*, Sitokonstantinou V., Lee, WK. & Kontoes, C. (2022). Towards Global Crop
 Maps with Transfer Learning. In NeurIPS Workshop Climate Change AI. [Paper](https://arxiv.org/pdf/2211.04755.pdf)&nbsp;
 
+Jo, H. W., Park, E., Sitokonstantinou, V., Kim, J., Lee, S., Koukos, A., & Lee, W. K. (2023). 
+Recurrent U-Net based dynamic paddy rice mapping in South Korea with enhanced data compatibility to support agricultural decision making. 
+GIScience & Remote Sensing, 60(1). [Paper](https://www.tandfonline.com/doi/full/10.1080/15481603.2023.2206539)&nbsp;
 
 ### Fusion of Multiple Remote Sensing Sources <a name="2"></a>
+
+Tsardanidis, I., Koukos, A., Sitokonstantinou, V., Drivas, T., & Kontoes, C. (2024). 
+Cloud gap-filling with deep learning for improved grassland monitoring. arXiv preprint arXiv:2403.09554. [Paper](https://arxiv.org/abs/2403.09554)&nbsp;
 
 Choumos, G.*, Koukos, A.*, Sitokonstantinou, V. and Kontoes, C. (2022). Towards
 space-to-ground data availability for the monitoring of the common agricultural policy.
@@ -102,6 +108,7 @@ Assessing the added value of Sentinel-1 PolSAR data for crop classification. Rem
 Sitokonstantinou, V., Koukos, A., Drivas, T., Kontoes, C., Papoutsis, I., and Karathanassi,
 V. (2021). A Scalable Machine Learning Pipeline for Paddy Rice Classification Using
 Multi-Temporal Sentinel Data. Remote Sensing, 13(9), 1769. [Paper](https://www.mdpi.com/2072-4292/13/9/1769)&nbsp;
+
 
 ### Explainable Digital Agriculture <a name="3"></a>
 
@@ -126,6 +133,9 @@ V. (2020). Scalable distributed random forest classification for paddy rice mapp
 Proceedings of the Asian Remote Sensing Conference (ACRS 2019) (pp. 836-845). [Paper](https://a-a-r-s.org/proceeding/ACRS2019/ThB3-6.pdf)&nbsp;
 
 ### Crop Growth Modeling <a name="5"></a>
+
+Sitokonstantinou, V., Koukos, A., Tsoumas, I., Bartsotas, N. S., Kontoes, C., & Karathanassi, V. (2023). 
+Fuzzy clustering for the within-season estimation of cotton phenology. Plos one, 18(3), e0282364. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282364)&nbsp;
 
 Sitokonstantinou, V., Koukos, A., Kontoes, C., Bartsotas, N. S., and Karathanassi, V.
 (2021, July). Semi-Supervised Phenology Estimation in Cotton Parcels with Sentinel-2
