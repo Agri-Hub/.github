@@ -67,7 +67,7 @@ Our team has participated in multiple European projects:
 - Nikolaos Kintis
 
 ### Active external collaborators
-- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (vsitokonstantinou@gmail.com)
+- Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (former lead, mail: vsitokonstantinou@gmail.com)
 - George Giannarakis
 - Alkiviadis Koukos
 
