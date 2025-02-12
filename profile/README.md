@@ -58,7 +58,11 @@ Our team has participated in multiple European projects:
 - Iason Tsardanidis 
 - Ilias Tsoumas  
 - Thanassis Drivas
+- Thanassis Askitopoulos
+- Ioannis Kontogiorgakis
+- Andreas Kalogeras
 - Dr. Fotios Balampanis
+- Dr. Spyros Theodoridis
 
 ### Active internal (Beyond Research Center) collaborators
 
