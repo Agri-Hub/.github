@@ -60,7 +60,6 @@ Our team has participated in multiple European projects:
 - Thanassis Drivas
 - Thanassis Askitopoulos
 - Ioannis Kontogiorgakis
-- Andreas Kalogeras
 - Dr. Fotios Balampanis
 - Dr. Spyros Theodoridis
 
@@ -177,6 +176,7 @@ with Causal Inference. In Thirty-Seventh AAAI conference on artificial intellige
 ## Alumni
 
 - Dr. Roxanne S. Lorilla
+- Andreas Kalogeras
 
 
 
