@@ -67,12 +67,10 @@ Our team has participated in multiple European projects:
 
 - Dr. Nikolaos S. Bartsotas
 - George Choumos
-- Nikolaos Kintis
 
 ### Active external collaborators
 - Dr. [Vasileios Sitokostantinou](https://scholar.google.gr/citations?user=8WCaLYQAAAAJ&hl=en) - (former lead, mail: vsitokonstantinou@gmail.com)
 - George Giannarakis
-- Alkiviadis Koukos
 
 ## Publications
 ### Satellite Image Time-series Classification/Segmentation <a name="1"></a>
@@ -94,6 +92,14 @@ Maps with Transfer Learning. In NeurIPS Workshop Climate Change AI. [Paper](http
 Jo, H. W., Park, E., Sitokonstantinou, V., Kim, J., Lee, S., Koukos, A., & Lee, W. K. (2023). 
 Recurrent U-Net based dynamic paddy rice mapping in South Korea with enhanced data compatibility to support agricultural decision making. 
 GIScience & Remote Sensing, 60(1). [Paper](https://www.tandfonline.com/doi/full/10.1080/15481603.2023.2206539)&nbsp;
+
+Tsardanidis, I., & Kontoes, C. (2024). 
+Semi-supervised deep learning for change detection in agricultural fields using sentinel-2 imagery. 
+In IGARSS 2024-2024 IEEE International Geoscience and Remote Sensing Symposium (pp. 1942-1945). IEEE. [Paper](https://ieeexplore.ieee.org/abstract/document/10641259/)&nbsp;
+
+Tsardanidis, I., Bormpoudakis, D., Tsoumas, I., Loka, D. A., Noulas, C., Tsitouras, A., & Kontoes, C. (2025). 
+Estimation of Agricultural Intensification Through Semi-Supervised Deep Learning on Sentinel-2 Imagery. 
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. [Paper](https://ieeexplore.ieee.org/abstract/document/11121589)&nbsp;
 
 ### Fusion of Multiple Remote Sensing Sources <a name="2"></a>
 
@@ -175,7 +181,9 @@ with Causal Inference. In Thirty-Seventh AAAI conference on artificial intellige
 
 ## Alumni
 
+- Alkiviadis Koukos
 - Dr. Roxanne S. Lorilla
+- Ornela Nanushi
 - Andreas Kalogeras
 
 
